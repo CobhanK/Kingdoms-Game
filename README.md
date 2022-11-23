@@ -1,5 +1,5 @@
 # Kingdoms-Game
-C++17 object-based 2-player terminal game created for CSCI 1300. Developed completely independently by Cobhan Kale.
+C++17 object-based 2-player terminal game created for CSCI 1300 at CU Boulder. Developed completely independently by Cobhan Kale.
 
 WELCOME TO FEUDAL KINGDOMS
 --------------------------------
@@ -29,7 +29,6 @@ SUBMISSION INFORMATION
 
  CSCI 1300 Spring 2022
  Author: Cobhan Kale
- Recitation: 201 - Tiffany Vo Phan
  Project 3 - Feudal Kingdoms
 
  Date: April 21st, 2022
