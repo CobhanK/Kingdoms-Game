@@ -1,5 +1,5 @@
 # Kingdoms-Game
-C++17 2-player terminal game created for CSCI 1300. Developed completely independently by Cobhan Kale.
+C++17 object-based 2-player terminal game created for CSCI 1300. Developed completely independently by Cobhan Kale.
 
 WELCOME TO FEUDAL KINGDOMS
 --------------------------------
